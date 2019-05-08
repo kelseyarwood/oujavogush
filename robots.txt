@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://haipojohz.doloapp.com/sitemap.xml
